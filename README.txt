@@ -1,4 +1,4 @@
-
+The mandlebrot example from the Programming Rust book, parallel version.
 
 cargo build --release
 
